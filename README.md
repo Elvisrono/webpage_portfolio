@@ -19,7 +19,7 @@
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
 
-        git clone https://https://github.com/kericho/my-app-frontend.git
+        git clone https://https://github.com/
 
 - Be patient as it creates a copy on your local machine for you.
 - Change directory to the repo folder:
@@ -42,7 +42,7 @@
 
 - you can see the live link here 
 
-https://my-app-frontend-six.vercel.app/
+https://
 
 
 # Technology Used
@@ -52,7 +52,7 @@ https://my-app-frontend-six.vercel.app/
 
 # Link to the backend repository
 
-https://github.com/kericho/task-manager-backend
+https://github.com/
 
 
 
